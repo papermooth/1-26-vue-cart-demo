@@ -1,0 +1,2 @@
+yarn global add json-server 或 npm i json-server  -g
+json-server  --watch  index.json
